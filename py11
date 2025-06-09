@@ -1,2 +1,6 @@
 print("Hello")
+<<<<<<< Updated upstream
 rama is going to school
+=======
+rama is going to school
+>>>>>>> Stashed changes
